@@ -1,0 +1,9 @@
+/* Add any custom styles here */
+body {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  /* Property image hover effect */
+  .property-image {
+    transition: ease-in-out;
+  }
